@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Smart Interview Preparation Portal (SIPP)
 
 **A production-level interview preparation platform built with Core PHP, MySQL, Bootstrap 5, and Chart.js**
@@ -468,3 +469,7 @@ Created for interview preparation and technical skill assessment.
 
 For detailed setup instructions, see **SETUP_GUIDE.md**
 For quick reference, see **QUICK_REFERENCE.md**
+=======
+# Smart-Interview-Preparation-Portal
+SIPP is a comprehensive interview preparation platform that helps users practice and master PHP, Java, and React through timed mock tests, detailed analytics, and personalized learning recommendations.
+>>>>>>> 34d2531a11db7cc889187fd0d167e4ad2def09c4
